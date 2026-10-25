@@ -13,7 +13,7 @@ I'm building **[Strandline](https://strandline.dev)**. Run several coding agents
 - **0 wrong merges on 476 real merge conflicts**, taken from 18 open-source repos. 34 were resolved correctly; 434 were left as conflicts for a person; 8 couldn't be checked. It would rather stop than guess.
 - **11 of 11 repair cheats rejected.** A repair that deletes a test, weakens an assertion or hard-codes the answer is refused before it can land.
 - **1,000 agents at once.** Load-tested on one laptop at about 20,000 events a minute, with a p99 of 11.5 ms.
-- **The demo above is a real run:** the alert reached the dependent agent 24 seconds in, it adapted, and the whole thing took 77 seconds and $0.018 in model cost.
+- **The demo above is a real run:** the alert reached the dependent agent 24 seconds in, it adapted, and the whole thing took 78 seconds and $0.018 in model cost.
 
 ## Find me
 
